@@ -1,0 +1,35 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+}
+.container {
+	width: 300px;
+	display: grid;
+	grid-template-columns: 1fr;
+	margin: 10px auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+#title {
+	margin: 50px;
+}
+
+button {
+	width: 100%;
+	margin: 5px;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 20px;
+	background-color: rgb(13, 146, 117);
+	color: white;
+	font-size: 1.2rem;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: rgb(9, 105, 84);
+}

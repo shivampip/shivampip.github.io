@@ -1,0 +1,14 @@
+html {
+	background: url(img/page_not_found.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+h1 {
+	font-size: 5rem;
+	color: rgb(21, 165, 129);
+	margin-left: 50px;
+}
