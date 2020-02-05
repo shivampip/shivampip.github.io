@@ -12,3 +12,20 @@ h1 {
 	color: rgb(21, 165, 129);
 	margin-left: 50px;
 }
+
+#designCreditS {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin: 20px;
+	font-size: 1.2rem;
+}
+
+#designCreditS a {
+	text-decoration: none;
+	color: rgb(21, 165, 129);
+}
+
+#designCreditS a:hover {
+	color: rgb(9, 105, 84);
+}
