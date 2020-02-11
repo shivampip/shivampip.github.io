@@ -61,6 +61,7 @@ button:hover {
 	font-family: Verdana, Geneva, sans-serif;
 	border-radius: 10px;
 	transition: 0.5s;
+	z-index: 5;
 }
 
 .leftAbout {

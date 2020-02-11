@@ -21,7 +21,7 @@
     
     <!-- ============================================================ -->
     <div id="aboutCardd" class="aboutCardHidden">
-        <div class="aboutCard">
+        <div id="aboutCardIn" class="aboutCard">
             <div class="leftAbout">
                 <div>
                     <img src="https://raw.githubusercontent.com/shivampip/shivampip.github.io/master/img/shivam_cropped.jpg?raw=true"></img>
@@ -57,10 +57,15 @@
     </div>
 
     <script>
-        document.getElementById("aboutMeBtn").addEventListener("click", function(){
+        const toggleCard=(eve)=>{
             let card= document.getElementById("aboutCardd");
             card.classList.toggle("aboutCardWrapper");
             card.classList.toggle("aboutCardHidden");
+        }
+        document.getElementById("aboutMeBtn").addEventListener("click", toggleCard);
+        document.getElementById("aboutCardd").addEventListener("click", toggleCard);
+        document.getElementById("aboutCardIn").addEventListener("click", function(eve){
+            eve.stopPropagation();
         });
     </script>
     <!-- ============================================================ -->
