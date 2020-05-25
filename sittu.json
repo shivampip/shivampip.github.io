@@ -17,9 +17,20 @@
 
     "creations": [
     {
-      title: "Hello World",
-      path: "img23.jpg",
-      cat: "logo"
+      "title": "Hello World",
+      "path": "img23.jpg",
+      "cat": "logo"
+    },
+        {
+      "title": "Hello World",
+      "path": "img23.jpg",
+      "cat": "logo"
+    },
+        {
+      "title": "Hello World",
+      "path": "img23.jpg",
+      "cat": "logo"
     }
+        
     ]
 }
