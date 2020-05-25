@@ -15,11 +15,11 @@
         "para2": "This is Paragraph 2"
     },
 
-    "creations: [
+    "creations": [
     {
-      "title": "Hello World",
-      "path": "img23.jpg",
-      "cat": "logo"
+      title: "Hello World",
+      path: "img23.jpg",
+      cat: "logo"
     }
     ]
 }
