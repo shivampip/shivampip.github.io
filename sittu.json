@@ -1,36 +1,29 @@
 {
-    "name": "Gaurav Ghati",
-    "phone": "+91 9067365762",
-    "mail": "gauravghati225@gmail.com",
-
-    "bio": "MY BIO",
-    "fun": "FUN STATEMENT",
-
-    "github": "https://github.com/gauravghati/",
-    "twitter": "https://twitter.com/GauravGhati/",
-    "linkedin": "http://linkedin.com/in/gauravghati/",
-
-    "aboutme": {
-        "para1": "This is Paragraph 1",
-        "para2": "This is Paragraph 2"
-    },
-
-    "creations": [
-    {
-      "title": "Hello World",
-      "path": "img23.jpg",
-      "cat": "logo"
-    },
-        {
-      "title": "Hello World",
-      "path": "img23.jpg",
-      "cat": "logo"
-    },
-        {
-      "title": "Hello World",
-      "path": "img23.jpg",
-      "cat": "logo"
-    }
-        
-    ]
+	"name": "Ayushi Agrawal",
+	"skills": [
+		{
+			"name": "Photoshop",
+			"percent": 70
+		},
+		{
+			"name": "Illustrator",
+			"percent": 60
+		},
+		{
+			"name": "Logo Design",
+			"percent": 90
+		},
+		{
+			"name": "Poster Design",
+			"percent": 80
+		},
+		{
+			"name": "Social Media Post",
+			"percent": 50
+		},
+		{
+			"name": "Others",
+			"percent": 30
+		}
+	]
 }
