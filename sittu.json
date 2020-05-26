@@ -1,5 +1,43 @@
 {
 	"name": "Ayushi Agrawal",
+	"creations": [
+		{
+			"title": "Apple Logo",
+			"cat": "logo",
+			"path": "shivam.jpg",
+			"thumb": "shivam.jpg"
+		},
+		{
+			"title": "Apple Logo",
+			"cat": "logo",
+			"path": "rest.png",
+			"thumb": "rest.png"
+		},
+		{
+			"title": "Apple Logo",
+			"cat": "logo",
+			"path": "mobile.jpg",
+			"thumb": "mobile.jpg"
+		},
+		{
+			"title": "Apple Logo",
+			"cat": "logo",
+			"path": "pencil_icon.png",
+			"thumb": "pencil_icon.png"
+		},
+		{
+			"title": "Apple Logo",
+			"cat": "logo",
+			"path": "memory_ionc_modi.png",
+			"thumb": "memory_ionc_modi.png"
+		},
+		{
+			"title": "Apple Logo",
+			"cat": "logo",
+			"path": "cf1.jpg",
+			"thumb": "cf1.jpg"
+		}
+	],
 	"skills": [
 		{
 			"name": "Photoshop",
