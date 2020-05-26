@@ -3,31 +3,38 @@
 	"skills": [
 		{
 			"name": "Photoshop",
-			"percent": 70
+			"percent": 70,
+			"color": "teal"
 		},
 		{
 			"name": "Illustrator",
-			"percent": 60
+			"percent": 60,
+			"color": "red"
 		},
 		{
 			"name": "Logo Design",
-			"percent": 90
+			"percent": 90,
+			"color": "yellow"
 		},
 		{
 			"name": "Poster Design",
-			"percent": 80
+			"percent": 80,
+			"color": "pink"
 		},
 		{
 			"name": "Social Media Post",
-			"percent": 50
+			"percent": 50,
+			"color": "green"
 		},
 		{
-			"name": "Cartoon",
-			"percent": 60
+			"name": "Cover Photo",
+			"percent": 80,
+			"color": "olive"
 		},
 		{
 			"name": "Others",
-			"percent": 30
+			"percent": 30,
+			"color": "orange"
 		}
 	]
 }
