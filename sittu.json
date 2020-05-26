@@ -36,6 +36,12 @@
 			"cat": "logo",
 			"path": "the sitttu.jpg",
 			"thumb": "the sitttu.jpg"
+		},
+		{
+			"title": "Apple Logo",
+			"cat": "logo",
+			"path": "owl symmetri line-01.jpg",
+			"thumb": "owl symmetri line-01.jpg"
 		}
 	],
 	"skills": [
