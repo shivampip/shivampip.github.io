@@ -22,6 +22,10 @@
 			"percent": 50
 		},
 		{
+			"name": "Cartoon",
+			"percent": 60
+		},
+		{
 			"name": "Others",
 			"percent": 30
 		}
